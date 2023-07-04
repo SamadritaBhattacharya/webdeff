@@ -9,4 +9,6 @@ A send todo button is created.
 index.html is builing a simple frontend.
 
 becoming a bit difficult and overwhelming in the begining but with time it will work well. 
+Don't know how to cope and go ahead. Can't understand most of the things and getting stuck.
+
 
