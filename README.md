@@ -22,7 +22,8 @@ building an interactive dynamic website.
 
 * Add
 * Showing status code
-* Remove/ Delete
+* Remove
+* Edit (not yet implemented)
 * Todo tile
 * Todo Description
 * Delete button 
