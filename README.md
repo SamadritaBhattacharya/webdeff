@@ -18,3 +18,11 @@ Loosing concentration.
 DOM Manipulation 
 
 building an interactive dynamic website.
+#Features:#
+
+* Add
+* Showing status code
+* Remove/ Delete
+* Todo tile
+* Todo Description
+* Delete button 
