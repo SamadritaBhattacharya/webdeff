@@ -1,6 +1,6 @@
 # webdeff
 
-#*TODO APP*
+**TODO APP**
 
 A simple Todo app which takes the titile and description of todos as a list and returns.
 
