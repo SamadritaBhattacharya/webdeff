@@ -27,4 +27,4 @@ building an interactive dynamic website.
 * Todo title
 * Todo Description
 * Delete button
-* 
+* Also shows the Todo list even after closing the site.
