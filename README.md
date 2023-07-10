@@ -14,3 +14,7 @@ Extremely frustrated and tired.
 Do not feel like studying. 
 Loosing concentration.
 
+
+DOM Manipulation 
+
+building an interactive dynamic website.
