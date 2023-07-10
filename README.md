@@ -15,10 +15,11 @@ Do not feel like studying.
 Loosing concentration.
 
 
-DOM Manipulation 
+**DOM Manipulation** 
 
 building an interactive dynamic website.
-#Features:#
+
+*Features:*
 
 * Add
 * Showing status code
