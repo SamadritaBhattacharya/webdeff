@@ -13,7 +13,7 @@ Don't know how to cope and go ahead. Can't understand most of the things and get
 Extremely frustrated and tired. 
 Do not feel like studying. 
 Loosing concentration. 
-Also use React for frontend and know the concept of virtual DOM
+Also use React for frontend and know the concepts and working of virtual DOM
 
 
 **DOM Manipulation** 
