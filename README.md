@@ -12,7 +12,8 @@ becoming a bit difficult and overwhelming in the begining but with time it will 
 Don't know how to cope and go ahead. Can't understand most of the things and getting stuck.
 Extremely frustrated and tired. 
 Do not feel like studying. 
-Loosing concentration.
+Loosing concentration. 
+Also use React for frontend and know the concept of virtual DOM
 
 
 **DOM Manipulation** 
